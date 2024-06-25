@@ -10,7 +10,9 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-python@v4
         with:
           python-version: 3.x
@@ -22,4 +24,5 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material pillow cairosvg Pygments
+      - run: pip install mkdocs-git-revision-date-localized-plugin mkdocs-git-committers-plugin-2 mkdocs-git-authors-plugin
       - run: mkdocs gh-deploy --force

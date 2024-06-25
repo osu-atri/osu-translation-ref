@@ -1,3 +1,6 @@
 # Ignore conf directory by default
 .vscode
+
+# Generated files & directories
 site
+.cache
