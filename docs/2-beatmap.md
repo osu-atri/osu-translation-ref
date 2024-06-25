@@ -5,6 +5,7 @@
 | 英文 | 中文 | 备注 |
 | :-- | :-- | :-- |
 | Beatmap (Map) | 谱面 | 常用：地图，图 |
+| Mapper | 谱师，制图者 | 制作谱面的人 |
 | Difficulty (Diff) | 难度 |  |
 | Beatmap project | 谱面项目，作图项目 |  |
 | Guest difficulty | 客串难度 | 往往是谱面项目的一部分 |
