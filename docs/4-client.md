@@ -19,7 +19,6 @@
 | Overlay | 覆盖层，叠加层 | 根据语境，有时可简译为**界面，层** |
 | Screen | 屏幕，*界面，页面* | 根据语境决定[^context-screen] |
 | Pop-up  | 弹出窗口，弹出框 |  |
-| Genshin Impact | 启动 |  |
 
 ## 谱面编辑器 {#editor}
 
