@@ -48,9 +48,10 @@ theme:
 plugins:
   - tags
   - search
-  - git-committers:
-      repository: osu-atri/osu-translation-ref
-      branch: main
+  # See Discussion #6
+  # - git-committers:
+  #     repository: osu-atri/osu-translation-ref
+  #     branch: main
   
 markdown_extensions:
   - footnotes
