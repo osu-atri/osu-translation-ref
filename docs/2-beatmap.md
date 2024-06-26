@@ -23,7 +23,7 @@ osu! 谱面列表中的谱面，可分为以下 7 种状态。
 | :-- | :-- | :-- |
 | Ranked | 上架 |  |
 | Qualified | 过审 |  |
-| Approved | 达标 | 过去曾有的分类 |
+| Approved | 达标 | 不符合现有标准的旧上架图 |
 | Loved | 社区喜爱 |  |
 | WIP | 制作中 |  |
 | Pending | 待定 |  |
