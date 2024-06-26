@@ -23,6 +23,4 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material pillow cairosvg Pygments
-      # Unused dependency
-      # - run: pip install mkdocs-git-revision-date-localized-plugin mkdocs-git-committers-plugin-2 mkdocs-git-authors-plugin
       - run: mkdocs gh-deploy --force
