@@ -34,4 +34,7 @@ body {
 :root {
     --md-code-font: "Cascadia Code PL";
     --md-text-font: "HarmonyOS Sans SC";
+    --md-primary-fg-color: #FF66AA;
+    --md-primary-fg-color--light: #FF66AA;
+    --md-primary-fg-color--dark: #EE3399;
 }
