@@ -1,10 +1,18 @@
 site_name: osu! 中英翻译术语表
 
+repo_name: osu-translation-ref
+repo_url: https://github.com/osu-atri/osu-translation-ref
+
+edit_uri: edit/dev/docs/
+
 theme:
   name: material
   custom_dir: overrides
   icon:
     logo: material/book-cog
+    repo: material/translate
+    edit: material/pencil 
+    view: material/eye
     tag:
       default: material/tag-text
       osu: simple/osu
@@ -30,6 +38,8 @@ theme:
     - search.share
     - content.code.copy
     - content.code.annotate
+    - content.action.edit
+    - content.action.view
   palette: 
     # Palette toggle for light mode
     - scheme: default
@@ -48,9 +58,6 @@ theme:
 plugins:
   - tags
   - search
-  - git-committers:
-      repository: osu-atri/osu-translation-ref
-      branch: main
   
 markdown_extensions:
   - footnotes
