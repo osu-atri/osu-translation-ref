@@ -1,9 +1,9 @@
 site_name: osu! 中英翻译术语表
 # Subject to change with the repo name
-site_url: https://osu-atri.github.io/osu-translation-ref
+site_url: https://osu-atri.github.io/osu-dictionary
 
-repo_name: osu-translation-ref
-repo_url: https://github.com/osu-atri/osu-translation-ref
+repo_name: osu-dictionary
+repo_url: https://github.com/osu-atri/osu-dictionary
 
 edit_uri: edit/dev/docs/
 
