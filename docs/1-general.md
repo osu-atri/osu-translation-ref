@@ -7,8 +7,9 @@
 | 英文 | 中文 | 备注 |
 | :-- | :-- | :-- |
 | Map (Mapping) | 作图，制图，制谱 |  |
-| Mod (Modding) | 摸图，飞图 |  |
-| Nominate | 提名 |  |
+| Mod (Modding) | 摸图 |  |
+| Nominate | 提名 | 俗称*点图* |
+| Rank (To rank) | 谱面上架 | 俗称*飞图*，即通过谱面审核流程 |
 | Collab (Beatmap collabration) | 谱面合作 |  |
 | Hype | 推荐（谱面） | 谱面讨论页上的喇叭图标 |
 
