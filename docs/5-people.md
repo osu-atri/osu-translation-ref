@@ -9,7 +9,7 @@ osu! 社区中的各种团队与举办的活动。
 | 英文 | 中文 | 备注 |
 | :-- | :-- | :-- |
 | Account Support Team | 账号支持团队 |  |
-| (**BAT**) Beatmap Appreciation Team | 铺面审核组 | 组织已弃用，于2015年左右改组成为**BN** |
+| (**BAT**) Beatmap Appreciation Team | 谱面审核团队 | 组织已弃用，于2015年左右改组成为**BN** |
 | (**BN**) Beatmap *Nominators* | 谱面审核成员 |  |
 | Beatmap Spotlight Curators | 谱面聚光灯策展人 |  |
 | *Centur*ions | 百夫长 | 用户制作的上架谱面数 $\geq$ 100 |
