@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://osu-atri.github.io/osu-translation-ref/</loc>
-         <lastmod>2024-06-27</lastmod>
+         <loc>https://osu-atri.github.io/osu-dictionary/</loc>
+         <lastmod>2024-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://osu-atri.github.io/osu-translation-ref/1-general/</loc>
-         <lastmod>2024-06-27</lastmod>
+         <loc>https://osu-atri.github.io/osu-dictionary/1-general/</loc>
+         <lastmod>2024-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://osu-atri.github.io/osu-translation-ref/2-beatmap/</loc>
-         <lastmod>2024-06-27</lastmod>
+         <loc>https://osu-atri.github.io/osu-dictionary/2-beatmap/</loc>
+         <lastmod>2024-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://osu-atri.github.io/osu-translation-ref/3-gameplay/</loc>
-         <lastmod>2024-06-27</lastmod>
+         <loc>https://osu-atri.github.io/osu-dictionary/3-gameplay/</loc>
+         <lastmod>2024-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://osu-atri.github.io/osu-translation-ref/4-client/</loc>
-         <lastmod>2024-06-27</lastmod>
+         <loc>https://osu-atri.github.io/osu-dictionary/4-client/</loc>
+         <lastmod>2024-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://osu-atri.github.io/osu-translation-ref/5-people/</loc>
-         <lastmod>2024-06-27</lastmod>
+         <loc>https://osu-atri.github.io/osu-dictionary/5-people/</loc>
+         <lastmod>2024-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://osu-atri.github.io/osu-translation-ref/6-tech/</loc>
-         <lastmod>2024-06-27</lastmod>
+         <loc>https://osu-atri.github.io/osu-dictionary/6-tech/</loc>
+         <lastmod>2024-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://osu-atri.github.io/osu-translation-ref/7-rules/</loc>
-         <lastmod>2024-06-27</lastmod>
+         <loc>https://osu-atri.github.io/osu-dictionary/7-rules/</loc>
+         <lastmod>2024-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://osu-atri.github.io/osu-translation-ref/osunews/</loc>
-         <lastmod>2024-06-27</lastmod>
+         <loc>https://osu-atri.github.io/osu-dictionary/osunews/</loc>
+         <lastmod>2024-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
