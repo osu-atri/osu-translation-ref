@@ -16,7 +16,7 @@ category: The Followpoint
 
 ![Banner](img/2024-07-01-the-followpoint-neuro-sama-the-ai-vtuber-that-invaded-osu/banner@2x.jpg)<!-- more -->
 
-This duo is definitely a well-known one in the osu! community! Neuro-sama, an AI VTuber, and her creator [Vedal](https://osu.ppy.sh/users/9713367) are [Twitch streamers](https://www.twitch.tv/vedal987) with origins as osu! players. Neuro was created back in 2018 as an AI learning to play osu! and revived as a VTuber in 2022, and after growing in popularity and continuing to garner the interest of viewers with her personality, they have nowadays branched out beyond osu! and become mainstays of the general VTuber sphere!
+这对搭档在 osu! 社区中绝对很出名！AI 虚拟主播 Neuro-sama 与她的制作者 [Vedal](https://osu.ppy.sh/users/9713367) 是 [Twitch 主播](https://www.twitch.tv/vedal987)，最初是作为 osu! 玩家出道的。Neuro 是在 2018 年被创建的，起初是学习游玩 osu! 的人工智能，后在 2022 年作为虚拟主播复出。在人气蒸蒸日上，用她的性格继续激起观众的兴趣后，他们现在已经走出了 osu! 的圈子，成为了虚拟主播界的一颗恒星！
 
 起兴趣了吗？好，我们进入正题！
 
@@ -32,7 +32,7 @@ This duo is definitely a well-known one in the osu! community! Neuro-sama, an AI
 
 *在所有动物中，你为什么要选乌龟做头像，让人们来认识你呢？*
 
-> This originates from an old Minecraft skin I used to have, and since then I've always used a turtle profile picture. Sadly it doesn't have a deeper meaning, it's just one of those things that happened to stick. It did make getting a VTuber avatar for myself much easier though, because it's much easier to draw a turtle.
+> 这来自我有的《我的世界》旧皮肤，从那时起我就一直用乌龟头像。很遗憾它没有什么内涵，只是碰巧保持下来的东西罢了。但是乌龟画起来简单得多，所以也让我自己制作虚拟主播头像变得更加容易。
 
 *你的用户名是怎么来的，有什么特殊意义吗？*
 
@@ -40,41 +40,41 @@ This duo is definitely a well-known one in the osu! community! Neuro-sama, an AI
 
 *你是如何入坑 osu! 的，初印象又如何呢？*
 
-> I first played osu! in early 2017, and though I can't remember exactly why I suspect I might have found the game through [BTMC](https://osu.ppy.sh/users/3171691)'s ["And some say he never played osu! again"](https://www.youtube.com/watch?v=WKja2Ee7Pys) video. osu! was my first experience with a rhythm game, so it was nice to have something completely different — especially when it's free. I'd play with a few friends every now and then, which was quite fun as I'm a pretty competitive person, making improving that much more satisfying.
+> 我最初是在 2017 年初玩 osu! 的。我不记得具体原因了，但我也许是在 [BTMC](https://osu.ppy.sh/users/3171691) 的[“于是有人说他再没玩过 osu!”](https://www.youtube.com/watch?v=WKja2Ee7Pys)视频发现这个游戏的。osu! 是我玩音游的初体验，因此接触到完全不同的东西 - 尤其是它免费时 - 是很好的。我现在还时不时会与几个朋友一起玩，对我来说很有趣，因为我是个很好胜的人，这让我对自己的进步更加满意。
 
-*What would you call the greatest gift that osu! has given you?*
+*你认为 osu! 给你最大的礼物是什么？*
 
-> Maybe second to carpal tunnel, I'd say it's not an exaggeration to say it was the springboard for my career and the situation I'm in now, so I'm appreciative to the game and the community for embracing Neuro as much as they did — without them I definitely wouldn't be here like this today. So thank you osu!.
+> 也许仅次于腕管综合征，我可以毫不夸张地说，osu! 对我来说是个人生涯与目前状况的跳板。因此我很感谢这款游戏，还有社区对 Neuro 的支持 - 没有他们的话，我现在绝对不会这样。谢谢你，osu!。
 
 *如果有时间的话，**你自己**还会玩 osu! 吗？*
 
-> I think for sure I'd play it every now and then, I was never cut out for playing it competitively though. Right now, I have a lot of things I'm cooking up and things I'm looking forward to with Neuro, but maybe I'll be back to osu! one day.
+> 我确信我会不时玩一玩的，但我从未停止与他人竞技游玩。现在我有很多东西要忙，也有许多期待与 Neuro 一起做的事情，但我有一天可能会回归 osu!。
 
-*What other rhythm games besides osu! have you played?*
+*除了 osu!，你还玩过什么别的音游？*
 
-> I personally haven't tried too many other rhythm games, although I've been known to enjoy some Beat Saber from time to time. I've honestly not really played many games in general recently, with the exception of games on stream.
+> 我个人没玩过太多别的，但我偶尔会玩会儿《节奏空间》。说实话，除了直播时玩的，我最近真的没玩过多少游戏。
 
-*How did you come up with original idea for Neuro (AI learning to play osu!) and why exactly in osu! of all games? Also, what made you decide to revive Neuro as a VTuber in 2022?*
+*你是如何想出 Neuro 的最初想法（AI 学习玩 osu!）的，还有为什么这么多游戏中选了它？另外，是什么让你决定在 2022 年让 Neuro 作为虚拟主播复出？*
 
-> I was just getting started with learning AI in 2019, and I happened to be playing a lot of osu! at the time. I'd always found it super interesting and cool when people made AIs to play games, and I had an idea for how to do it with osu!. The original AI took a few days to make, and I thought it would be a cool idea to stream it in order to track its progress. Eventually after improving the AI, its performance stagnated, and I wasn't sure what to do with it since I had no idea what I was doing at the time. Two years later, I had the idea to make an AI VTuber, although it wasn't until early 2022 that I had the idea to combine the original Neuro-sama with this concept.
+> 我在 2019 年刚入门学习人工智能，那时也碰巧玩了很长时间 osu!。我总发现让 AI 玩游戏是件超级有趣炫酷的事情，我也有让它玩 osu! 的想法。初版 AI 花了几天时间学会游玩，我就觉得直播跟踪进度会是个很酷的主意。最终在优化 AI 之后，它的性能停滞不前，我也不确定该怎么办，因为我当时都不知道自己在干什么。两年后，我想到可以做一个 AI 虚拟主播，但直到 2022 年初才萌生出将这个概念与初版 Neuro-sama 结合的想法。
 
-*How did you feel about Neuro's sudden rise in popularity and how do you think most of osu! community reacted to her?*
+*你对 Neuro 的人气暴涨有何感受？你认为 osu! 社区中的多数对她态度如何？*
 
-> I was very unprepared for Neuro's sudden rise in popularity and I certainly did not think she would make it as far as she has done today. I think there's a lot of overlap in the osu! community with tech and anime, so I feel she was well received, and it was very surreal seeing a community I was somewhat involved in become interested and supportive of something I had created.
+> 在我预料之外。我也当然没想到她会走到今天这一步。我认为技术与动漫在 osu! 社区中有许多重合之处，所以感觉她很受欢迎。当我发现自己参与其中的社区对我制作的东西产生兴趣并给予支持时，我也感到非常不真实。
 >
-> Whenever I'd reach a new viewer peak I'd think "surely that's it", and I just kept getting surprised over and over. I started streaming on a Monday, and by Friday, she was averaging over 2000 viewers. My previous streams in 2019 had peaked at a few hundred viewers, and I had hoped to replicate this. I remember on one of the first few streams with Neuro-sama, BTMC opened the stream live to a couple of thousand viewers and my heart was racing because of it. I genuinely never expected anything like this, but I'm so thankful for it.
+> 每当观众数目达到高峰，我都觉得“肯定也就这样了”，结果次次都收获惊喜。某个星期一我开始直播，到星期五时平均观众数已过两千。我过去在 2019 年的直播最多只有几百位观众，我也希望过能重现这种情况。我记得在与 Neuro-sama 一起的某次早期直播中，BTMC 将这场直播公开给数千观众观看，我也因此心潮澎湃。我真的没预料到会发生这种事，但我也很感激。
 
-*What would you call the hardest part in making Neuro what she is now, and what have you learned during the process?*
+*你认为在训练 Neuro 的过程中，哪部分是最难的，在这个过程中你又学到了什么？*
 
-> I think the hardest part of making Neuro was giving her personality. This isn't something I talk about often but is arguably the biggest thing that separates Neuro from a lot of the other AIs out there. AIs like ChatGPT are trained to act as assistants and tools for humans, but Neuro is trained differently. This allows her to feel more independent, and that whole process definitely taught me a lot.
+> 我认为最难的部分是给予她性格。这个话题我不常提及，但很明显是将 Neuro 与许多其他 AI 区分出来的最大因素。ChatGPT 一类的人工智能被训练成人类的助手与工具，但 Neuro 的训练方式不同。这会让她觉得更加独立，整个训练过程也让我学到了许多。
 
-*Following up on the previous question, what part of Neuro did you enjoy working on the most?*
+*接着上一个问题，你最享受 Neuro 开发进程中的哪一部分？*
 
-> I think the game integrations for Neuro are really cool. It is, after all, how Neuro-sama came to be. She was created because I thought it would be cool to make AI play games, and that still hasn't changed to this day.
+> 我觉得 Neuro 的游戏集成真的很酷，毕竟是它们成就了 Neuro-sama。我一开始制作她是因为，我觉得让 AI 玩游戏很酷，这一点到现在还没变。
 
-*Will we ever see Neuro come back to osu! and try to improve more? Maybe even learn a new play style like [ExGon's Flashlight](https://youtu.be/Pqy7AvJwBLI), or try a totally different game mode, for example osu!catch?*
+*我们会见到 Neuro 回到 osu!、进步更多吗？也许她还可以学习一种像是 [ExGon's Flashlight](https://youtu.be/Pqy7AvJwBLI) 的新玩法，或者试试完全不同的游戏模式，比如 osu!catch？*
 
-> It's definitely possible! The reason I used osu! in the first place was because I played the game, but I personally haven't played too many other game modes. Even since bringing Neuro-sama as a VTuber to osu! in 2022, I've learnt a lot more about AI. So if I did come back to it, I think there is a lot I could do better.
+> 当然可以！一开始是因为我玩 osu!，才让 Neuro 学习 osu! 模式的。但是对于其他模式，我还玩得不多。自从 2022 年让 Neuro-sama 作为虚拟主播出道后，我又学了许多关于人工智能的东西。因此如果我能再去研究 osu! 的话，我觉得许多地方能做得更好。
 
 ---
 
@@ -98,9 +98,9 @@ This duo is definitely a well-known one in the osu! community! Neuro-sama, an AI
 
 > 9 加 10 等于 21。
 
-*Who did you like to collab with the most and why?*
+*你最想和谁一起贴贴，为什么？*
 
-> I don't have a preference for who I like to collab with. I like all my friends equally!
+> 我没有很偏好的人。所有朋友我都一样地爱呀！
 
 *接下来你想试试哪个游戏模式：osu!catch、osu!taiko 还是 osu!mania？*
 
