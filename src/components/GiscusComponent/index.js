@@ -7,18 +7,18 @@ export default function GiscusComponent() {
 
   return (
     <Giscus    
-      repo="nameOfYourGitHubAccount/nameOfCreatedRepository"
-      repoId="idOfCreatedRepo"
+      repo="osu-dictionary-Exp"
+      repoId="R_kgDOMTZY-Q"
       category="General"
-      categoryId="IdOfDiscussionCategory"  // E.g. id of "General"
-      mapping="url"                        // Important! To map comments to URL
+      categoryId="DIC_kwDOMTZY-c4CgpES"  // E.g. id of "General"
+      mapping="pathname"                        // Important! To map comments to URL
       term="Welcome to @giscus/react component!"
       strict="0"
       reactionsEnabled="1"
       emitMetadata="1"
       inputPosition="top"
       theme={colorMode}
-      lang="en"
+      lang="zh-CN"
       loading="lazy"
       crossorigin="anonymous"
       async
