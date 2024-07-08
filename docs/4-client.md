@@ -1,3 +1,8 @@
+---
+sidebar_position: 5
+---
+
+
 # 客户端
 
 客户端程序中的概念。[客户端 wiki](https://osu.ppy.sh/wiki/Client)
