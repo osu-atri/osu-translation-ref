@@ -6,6 +6,7 @@ authors:
 tags: [lazer update]
 image: https://osu.ppy.sh/home/news/2024-06-25-osu-lazer-updates-june-25-2024
 hide_table_of_contents: false
+enableComments: true # for Gisqus
 ---
 
 Click here to consume the latest and greatest osu!(lazer) updates!
@@ -14,3 +15,4 @@ Mappers should be very happy, as this month's changes are mostly focused around 
 
 <iframe width="949" height="534" src="https://www.youtube.com/embed/BnhcyVT_yrk" title="&quot;the editor sucks&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+...
