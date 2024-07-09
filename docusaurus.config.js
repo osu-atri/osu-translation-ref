@@ -78,7 +78,7 @@ const config = {
             position: 'left',
             label: '术语表',
           },
-          //{to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: '新闻', position: 'left'},
           {
             href: 'https://github.com/NaughtyChas/osu-dictionary-Exp',
             label: 'GitHub',

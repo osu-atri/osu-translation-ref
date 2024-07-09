@@ -50,7 +50,7 @@ export default function DocItemLayout({ children }) {
         emitMetadata="0"
         inputPosition="top"
         theme={colorMode}
-        lang="en"
+        lang="zh-CN"
         loading="lazy"
       />
     </React.Fragment>
