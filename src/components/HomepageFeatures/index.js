@@ -2,6 +2,7 @@ import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
+// TODO: Needs reworking!
 const FeatureList = [
   {
     title: '标题一',

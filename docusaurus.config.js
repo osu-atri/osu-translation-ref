@@ -6,22 +6,24 @@
 
 import {themes as prismThemes} from 'prism-react-renderer';
 
+const common = require('./common.js');
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'osu! 中英翻译术语表',
-  tagline: '',
-  favicon: 'img/site-logo.png',
+  title: common.title,
+  tagline: common.description,
+  favicon: common.icon,
 
   // Set the production url of your site here
+  // TODO: Change this part
   url: 'https://localhost:3000/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'osu-atri', // Usually your GitHub org/user name.
+  projectName: 'osu-dictionary', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -42,16 +44,22 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
+          /* Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          */
         },
         blog: {
           showReadingTime: true,
+          readingTime: ({content, frontMatter, defaultReadingTime}) =>
+            frontMatter.hide_reading_time
+              ? undefined
+              : defaultReadingTime({content, options:{wordsPerMinute: 450}}),
           // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
+          /* Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          */
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -66,10 +74,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'osu! 中英翻译术语表',
+        title: common.title,
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/site-logo.png',
+          alt: "{}",
+          src: common.icon,
         },
         items: [
           {
