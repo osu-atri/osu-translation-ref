@@ -41,10 +41,10 @@ export default function DocItemLayout({ children }) {
       <br></br>
       <Giscus
         id="comments"
-        repo="NaughtyChas/osu-dictionary-Exp"
-        repoId="R_kgDOMTZY-Q"
+        repo="osu-atri/osu-dictionary"
+        repoId="R_kgDOMN7Jkg"
         category="Announcements"
-        categoryId="DIC_kwDOMTZY-c4CgpER"
+        categoryId="DIC_kwDOMN7Jks4CgXXP"
         mapping="pathname"
         reactionsEnabled="1"
         emitMetadata="0"
