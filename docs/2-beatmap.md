@@ -12,18 +12,18 @@
 | Authentic beatmap | 仿真谱面（传统谱面） | 仿造 DS 游戏作图 |
 | Difficulty spread (Spread) | 难度分布 |  |
 | Long Note **(LN)** map | 面条图，长条图 (osu!mania) |  |
-| Tiebreaker **(TB)** | *保留* |  |
-| Overmapping | 过度作图 | 人为增加谱面难度 |
+| Tiebreaker **(TB)** | *保留* | 比赛的决胜局谱面 |
+| Overmapping | 过度作图 | 人为增加谱面难度，写粪谱是吧 |
 
 ## 状态分类 {#category}
 
-osu! 谱面列表中的谱面，可分为以下 7 种状态。
+osu! 谱面列表中的谱面可分为以下 7 种状态。
 
 | 英文 | 中文 | 备注 |
 | :-- | :-- | :-- |
 | Ranked | 上架 |  |
 | Qualified | 过审 |  |
-| Approved | 达标 | 不符合旧上架标准的谱面 |
+| Approved | 达标 | 不符合现行上架标准的旧谱面 |
 | Loved | 社区喜爱 |  |
 | WIP | 制作中 |  |
 | Pending | 待定 |  |
@@ -40,6 +40,6 @@ osu! 谱面列表中的谱面，可分为以下 7 种状态。
 | **(OD)** Overall difficulty | 整体难度 | wiki 翻译：判定严度 |
 | **(HP)** HP drain rate | 掉血速度 |  |
 | **(SR)** Star Rating | 星数评价 |  |
-| Lead-in time | 导入时间 |  |
+| Lead-in time | 预留时间 | 曾译作*导入时间* |
 | Drain time / length | 掉血时间 |  |
 | Stack leniency | 堆叠度 |  |
