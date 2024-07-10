@@ -4,3 +4,7 @@
 # Generated files & directories
 site
 .cache
+
+# For Node.js
+.docusaurus
+node_modules
