@@ -82,7 +82,7 @@ const config = {
             position: "left",
             label: "术语表",
           },
-          { to: "/news", label: "新闻", position: "left" },
+          { to: "/blog", label: "新闻", position: "left" },
           {
             href: common.src,
             label: "GitHub",
@@ -102,7 +102,7 @@ const config = {
               },
               {
                 label: "新闻翻译",
-                to: "/news",
+                to: "/blog",
               },
             ],
           },
