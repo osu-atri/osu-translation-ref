@@ -6,20 +6,20 @@ export default function GiscusComponent() {
   const { colorMode } = useColorMode();
 
   return (
-    <Giscus    
-      repo="osu-dictionary-Exp"
-      repoId="R_kgDOMTZY-Q"
+    <Giscus
+      repo="osu-atri/osu-dictionary"
+      repoId="R_kgDOMN7Jkg"
       category="General"
-      categoryId="DIC_kwDOMTZY-c4CgpES"  // E.g. id of "General"
-      mapping="pathname"                        // Important! To map comments to URL
-      term="Welcome to @giscus/react component!"
-      strict="0"
+      categoryId="DIC_kwDOMN7Jks4CgXXQ"
+      mapping="og:title"
       reactionsEnabled="1"
-      emitMetadata="1"
+      emitMetadata="0"
       inputPosition="top"
       theme={colorMode}
       lang="zh-CN"
       loading="lazy"
+      term="Welcome to @giscus/react component!"
+      strict="0"
       crossorigin="anonymous"
       async
     />

@@ -43,11 +43,9 @@ const config = {
       ({
         docs: {
           sidebarPath: "./sidebars.js",
-          // Please change this to your repo.
-          /* Remove this to remove the "edit this page" links.
+          // The base URL to the project root.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          */
+            'https://github.com/osu-atri/osu-dictionary/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -58,11 +56,6 @@ const config = {
                   content,
                   options: { wordsPerMinute: 450 },
                 }),
-          // Please change this to your repo.
-          /* Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          */
         },
         theme: {
           customCss: "./src/css/custom.css",
@@ -91,7 +84,7 @@ const config = {
           },
           { to: "/blog", label: "新闻", position: "left" },
           {
-            href: "https://github.com/NaughtyChas/osu-dictionary-Exp",
+            href: common.src,
             label: "GitHub",
             position: "right",
           },
