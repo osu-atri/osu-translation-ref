@@ -13,7 +13,10 @@ function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   // Should we keep this button?
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
+    <header
+      className={clsx('hero hero--primary', styles.heroBanner)}
+      style={{ backgroundImage: "url('/img/landing.gif')" }}
+    >
       <div className="container">
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
