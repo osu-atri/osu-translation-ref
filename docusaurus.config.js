@@ -19,7 +19,7 @@ const config = {
   url: "https://localhost:3000/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/",
+  baseUrl: "/osu-dictionary/",
 
   // GitHub pages deployment config.
   organizationName: "osu-atri", // Usually your GitHub org/user name.
