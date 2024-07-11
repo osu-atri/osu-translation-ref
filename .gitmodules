@@ -1,6 +1,3 @@
-[submodule "news"]
-	path = news
-	url = https://github.com/osu-atri/osu-news
 [submodule "blog"]
 	path = blog
 	url = git@github.com:osu-atri/osu-news
