@@ -1,9 +1,10 @@
 ---
-title: 'The Followpoint: Neuro-sama，入侵 osu! 的 AI 虚拟主播'
 authors:
   - name: MegaMix
 tags: [The Followpoint, 采访]
-image: https://i.ppy.sh/ec1ba271faa2107eeb0eed47015208946189f2d1/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f7368617265642f6e6577732f323032342d30362d32352d6f73752d6c617a65722d757064617465732d6a756e652d32352d323032342f62616e6e65722e6a7067
+image: https://i.ppy.sh/9349b0243b543a6f7cca3553cee9c3224a5e3c29/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f7368617265642f6e6577732f323032342d30372d30312d7468652d666f6c6c6f77706f696e742d6e6575726f2d73616d612d7468652d61692d7674756265722d746861742d696e76616465642d6f73752f62616e6e65722e6a7067
+date: 2024-07-01T18:00
+slug: the-followpoint-neuro
 hide_table_of_contents: false
 sidebar_position: 1
 enableComments: true # for Gisqus
@@ -11,9 +12,8 @@ enableComments: true # for Gisqus
 
 # The Followpoint: Neuro-sama，入侵 osu! 的 AI 虚拟主播
 
-:::info 
+:::info 信息
 
-"信息"
 本文章由 osu!ATRI 组织从 osu!wiki 的新闻页面搬运并翻译。
 
 原文链接：[The Followpoint: Neuro-sama, the AI VTuber that invaded osu!](https://osu.ppy.sh/home/news/2024-07-01-the-followpoint-neuro-sama-the-ai-vtuber-that-invaded-osu)
@@ -24,7 +24,7 @@ enableComments: true # for Gisqus
 
 ![Banner](https://i.ppy.sh/9349b0243b543a6f7cca3553cee9c3224a5e3c29/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f7368617265642f6e6577732f323032342d30372d30312d7468652d666f6c6c6f77706f696e742d6e6575726f2d73616d612d7468652d61692d7674756265722d746861742d696e76616465642d6f73752f62616e6e65722e6a7067)
 
-这对搭档在 osu! 社区中绝对很出名！AI 虚拟主播 Neuro-sama 与她的制作者 [Vedal](https://osu.ppy.sh/users/9713367) 是 [Twitch 主播](https://www.twitch.tv/vedal987)，最初是作为 osu! 玩家出道的。Neuro 是在 2018 年被创建的，起初是学习游玩 osu! 的人工智能，后在 2022 年作为虚拟主播复出。在人气蒸蒸日上，用她的性格继续激起观众的兴趣后，他们现在已经走出了 osu! 的圈子，成为了虚拟主播界的一颗恒星！
+<!-- truncate -->这对搭档在 osu! 社区中绝对很出名！AI 虚拟主播 Neuro-sama 与她的制作者 [Vedal](https://osu.ppy.sh/users/9713367) 是 [Twitch 主播](https://www.twitch.tv/vedal987)，最初是作为 osu! 玩家出道的。Neuro 是在 2018 年被创建的，起初是学习游玩 osu! 的人工智能，后在 2022 年作为虚拟主播复出。在人气蒸蒸日上，用她的性格继续激起观众的兴趣后，他们现在已经走出了 osu! 的圈子，成为了虚拟主播界的一颗恒星！
 
 起兴趣了吗？好，我们进入正题！
 

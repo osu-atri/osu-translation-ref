@@ -4,9 +4,9 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from "prism-react-renderer";
 
-const common = require('./common.js');
+const common = require("./common.js");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -16,33 +16,33 @@ const config = {
 
   // Set the production url of your site here
   // TODO: Change this part
-  url: 'https://localhost:3000/',
+  url: "https://localhost:3000/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: "/",
 
   // GitHub pages deployment config.
-  organizationName: 'osu-atri', // Usually your GitHub org/user name.
-  projectName: 'osu-dictionary', // Usually your repo name.
+  organizationName: "osu-atri", // Usually your GitHub org/user name.
+  projectName: "osu-dictionary", // Usually your repo name.
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'zh-Hans',
-    locales: ['zh-Hans'],
+    defaultLocale: "zh-Hans",
+    locales: ["zh-Hans"],
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: './sidebars.js',
+          sidebarPath: "./sidebars.js",
           // Please change this to your repo.
           /* Remove this to remove the "edit this page" links.
           editUrl:
@@ -51,10 +51,13 @@ const config = {
         },
         blog: {
           showReadingTime: true,
-          readingTime: ({content, frontMatter, defaultReadingTime}) =>
+          readingTime: ({ content, frontMatter, defaultReadingTime }) =>
             frontMatter.hide_reading_time
               ? undefined
-              : defaultReadingTime({content, options:{wordsPerMinute: 450}}),
+              : defaultReadingTime({
+                  content,
+                  options: { wordsPerMinute: 450 },
+                }),
           // Please change this to your repo.
           /* Remove this to remove the "edit this page" links.
           editUrl:
@@ -62,7 +65,7 @@ const config = {
           */
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: "./src/css/custom.css",
         },
       }),
     ],
@@ -71,8 +74,8 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      // Social card image
+      image: common.cardbanner,
       navbar: {
         title: common.title,
         logo: {
@@ -81,63 +84,68 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: '术语表',
+            type: "docSidebar",
+            sidebarId: "tutorialSidebar",
+            position: "left",
+            label: "术语表",
           },
-          {to: '/blog', label: '新闻', position: 'left'},
+          { to: "/blog", label: "新闻", position: "left" },
           {
-            href: 'https://github.com/NaughtyChas/osu-dictionary-Exp',
-            label: 'GitHub',
-            position: 'right',
+            href: "https://github.com/NaughtyChas/osu-dictionary-Exp",
+            label: "GitHub",
+            position: "right",
           },
         ],
       },
       footer: {
-        style: 'dark',
+        style: "dark",
         links: [
           {
-            title: '文档',
+            title: "文档",
             items: [
               {
-                label: '术语表',
-                to: '/docs',
-              },
-            ],
-          },
-          /*{
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: "术语表",
+                to: "/docs",
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: "新闻翻译",
+                to: "/blog",
               },
             ],
           },
           {
-            title: 'More',
+            title: "关于我们",
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: "GitHub",
+                href: common.contact.github_org,
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: "哔哩哔哩",
+                href: common.contact.bilibili,
+              },
+              {
+                label: "加入我们",
+                href: common.contact.github_join,
               },
             ],
-          },*/
+          },
+          {
+            title: "友情链接",
+            items: [
+              {
+                label: "osu!wiki",
+                href: "https://osu.ppy.sh/wiki",
+              },
+              {
+                label: "藕酥汉化组",
+                href: "https://github.com/osu-translate-zh",
+              },
+            ],
+          },
         ],
-        copyright: `This work is licensed under CC BY-NC 4.0, Built with Docusaurus.`,
+        copyright:
+          "This work is licensed under CC BY-NC 4.0, Built with Docusaurus.",
       },
       prism: {
         theme: prismThemes.github,
