@@ -1,6 +1,8 @@
 ---
-comments: true
+sidebar_position: 1
+enableComments: true # for Gisqus
 ---
+
 
 # 主页
 
