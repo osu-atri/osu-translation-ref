@@ -76,7 +76,7 @@ const config = {
       navbar: {
         title: common.title,
         logo: {
-          alt: "{}",
+          alt: "osu!dictionary Logo",
           src: common.icon,
         },
         items: [
