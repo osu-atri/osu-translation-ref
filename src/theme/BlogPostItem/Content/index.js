@@ -10,15 +10,13 @@ export default function BlogPostItemContent({children, className}) {
   const { colorMode } = useColorMode();
   const giscus = (
     <React.Fragment>
-      <hr />
-      <br></br>
       <Giscus
         id="comments"
-        repo="osu-atri/osu-dictionary"
-        repoId="R_kgDOMN7Jkg"
-        category="Announcements"
-        categoryId="DIC_kwDOMN7Jks4CgXXP"
-        mapping="pathname"
+        repo="osu-atri/osu-news"
+        repoId="R_kgDOMU6doQ"
+        category="General"
+        categoryId="DIC_kwDOMU6doc4CguVK"
+        mapping="or:title"
         reactionsEnabled="1"
         emitMetadata="0"
         inputPosition="top"
@@ -27,7 +25,7 @@ export default function BlogPostItemContent({children, className}) {
         loading="lazy"
       />
     </React.Fragment>
-  )
+  );
   return (
     <div
       // This ID is used for the feed generation to locate the main content

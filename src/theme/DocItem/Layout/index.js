@@ -37,15 +37,13 @@ export default function DocItemLayout({ children }) {
   const { colorMode } = useColorMode();
   const giscus = (
     <React.Fragment>
-      <hr />
-      <br></br>
       <Giscus
         id="comments"
         repo="osu-atri/osu-dictionary"
         repoId="R_kgDOMN7Jkg"
-        category="Announcements"
-        categoryId="DIC_kwDOMN7Jks4CgXXP"
-        mapping="pathname"
+        category="General"
+        categoryId="DIC_kwDOMN7Jks4CgXXQ"
+        mapping="og:title"
         reactionsEnabled="1"
         emitMetadata="0"
         inputPosition="top"
@@ -54,7 +52,7 @@ export default function DocItemLayout({ children }) {
         loading="lazy"
       />
     </React.Fragment>
-  )
+  );
   return (
     <div className="row">
       <div className={clsx('col', !docTOC.hidden && styles.docItemCol)}>
