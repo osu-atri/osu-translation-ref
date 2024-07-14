@@ -44,8 +44,7 @@ const config = {
         docs: {
           sidebarPath: "./sidebars.js",
           // The base URL to the project root.
-          editUrl:
-            'https://github.com/osu-atri/osu-dictionary/tree/main/',
+          editUrl: "https://github.com/osu-atri/osu-dictionary/tree/main/",
         },
         blog: {
           showReadingTime: true,
@@ -78,10 +77,13 @@ const config = {
         items: [
           {
             type: "docSidebar",
-            sidebarId: "tutorialSidebar",
+            sidebarId: "mainSidebar",
             position: "left",
-            label: "术语表",
+            label: "文档",
           },
+          { to: "/docs/termtable", label: "术语表", position: "left" },
+          // Must specify "index" since we use README.md
+          { to: "/docs/lazer/index", label: "osu!lazer 指南", position: "left" },
           { to: "/blog", label: "新闻", position: "left" },
           {
             href: common.src,

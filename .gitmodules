@@ -1,3 +1,7 @@
 [submodule "blog"]
 	path = blog
 	url = https://github.com/osu-atri/osu-news.git
+
+[submodule "lazerwiki"]
+	path = docs/lazer
+	url = https://github.com/osu-atri/lazer-wiki.git

@@ -1,23 +1,12 @@
 ---
 sidebar_position: 1
-enableComments: true # for Gisqus
+enableComments: true
 ---
 
+# 文档主页
 
-# 主页
+嗨，欢迎来到 osu!dictionary，为 osu! 爱好者准备的简明*词典*！
 
-欢迎来到 **osu! 中英翻译术语表！**
+你现在正位于**文档**部分的主页面，其中罗列了我们精心编写的所有文档。
 
-你可以使用这个术语表来：
-
-- 了解部分常用的 osu! 术语的中文翻译；
-- 帮助为 osu! 各种内容的翻译做出贡献。
-
-## 更多信息
-
-若要了解更多信息，可以登陆 [osu!wiki](https://osu.ppy.sh/wiki)，转到你感兴趣的词条一探究竟。
-
-此外，你或许也感兴趣：
-
-- [藕酥汉化组](https://github.com/osu-translate-zh)，osu! 中文翻译组织。
-- [osu!wiki GitHub 仓库](https://github.com/ppy/osu-wiki)
+试试用一下左侧的边栏吧（小屏幕端请点击左上角的菜单按钮），寻找你想要的东西一探究竟！
