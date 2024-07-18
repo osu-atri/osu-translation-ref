@@ -38,12 +38,22 @@ const sidebars = {
     'index',
     {
       type: 'category',
-      label: 'osu!lazer 指南',
+      label: '从零开始的 osu!lazer 入门指南',
       collapsed: false,
       items: [
-        'lazer/lazermap2st',
-      ]
-    }
+        'lazer/lazer-tutorial/feature',
+        'lazer/lazer-tutorial/init',
+        'lazer/lazer-tutorial/setting',
+        {
+          type: 'category',
+          label: 'osu!lazer 指南',
+          collapsed: false,
+          items: [
+            'lazer/lazermap2st',
+          ],
+        },    
+      ],
+    },
   ],
 
 
