@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 enableComments: true
+displayed_sidebar: mainSidebar
 ---
 
 # 文档主页
