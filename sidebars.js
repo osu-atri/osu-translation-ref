@@ -57,7 +57,7 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'osu!lazer 指南',
+      label: '小提示',
       link: {
         type: 'generated-index',
       },
