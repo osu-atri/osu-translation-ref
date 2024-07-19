@@ -49,6 +49,7 @@ const sidebars = {
       },
       collapsed: false,
       items: [
+        `lazer/lazer-tutorial/index`,
         'lazer/lazer-tutorial/feature',
         'lazer/lazer-tutorial/init',
         'lazer/lazer-tutorial/setting',
