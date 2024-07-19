@@ -40,12 +40,12 @@ const sidebars = {
 
   lazerSidebar: [
     'index',
+    'lazer/README',
     {
       type: 'category',
       label: '从零开始的 osu!lazer 入门指南',
       link: {
-        type: 'doc',
-        id: 'lazer/README',
+        type: 'generated-index',
       },
       collapsed: false,
       items: [
