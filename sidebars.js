@@ -52,16 +52,19 @@ const sidebars = {
         'lazer/lazer-tutorial/feature',
         'lazer/lazer-tutorial/init',
         'lazer/lazer-tutorial/setting',
-        {
-          type: 'category',
-          label: 'osu!lazer 指南',
-          collapsed: false,
-          items: [
-            'lazer/lazermap2st',
-          ],
-        },    
       ],
     },
+    {
+      type: 'category',
+      label: 'osu!lazer 指南',
+      link: {
+        type: 'generated-index',
+      },
+      collapsed: false,
+      items: [
+        'lazer/lazermap2st',
+      ],
+    },    
   ],
 
 
