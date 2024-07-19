@@ -21,6 +21,10 @@ const sidebars = {
     {
       type: 'category',
       label: 'osu! 中英翻译术语表',
+      link: {
+        type: 'doc',
+        id: 'termtable/index',
+      },
       collapsed: false,
       items: [
         'termtable/general',
@@ -39,6 +43,10 @@ const sidebars = {
     {
       type: 'category',
       label: '从零开始的 osu!lazer 入门指南',
+      link: {
+        type: 'doc',
+        id: 'lazer/README',
+      },
       collapsed: false,
       items: [
         'lazer/lazer-tutorial/feature',
