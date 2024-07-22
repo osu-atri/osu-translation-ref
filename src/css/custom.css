@@ -21,7 +21,18 @@
   h2 {
     font-size: 1.5rem;
   }
+
+  .navbar {
+    background: rgba(255, 179, 212, 0.8);
+    backdrop-filter: blur(25px);
+    background-image: url('assets/trianglesNavbar.png');
+    background-position: bottom;
+    background-size: auto 100%;
+    background-repeat: repeat-x;
+    filter: hue-rotate(0deg) saturate(.5);
+  }
 }
+
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme="dark"] {
