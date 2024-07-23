@@ -53,6 +53,7 @@ const sidebars = {
         'lazer/lazer-tutorial/feature',
         'lazer/lazer-tutorial/init',
         'lazer/lazer-tutorial/setting',
+        'lazer/lazer-tutorial/interface',
       ],
     },
     {
