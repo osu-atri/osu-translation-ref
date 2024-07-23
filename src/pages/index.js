@@ -15,7 +15,6 @@ function HomepageHeader() {
   return (
     <header
       className={clsx('hero hero--primary', styles.heroBanner)}
-      style={{ backgroundImage: "url('/img/landing.gif')" }}
     >
       <div className="container">
         <Heading as="h1" className="hero__title">
