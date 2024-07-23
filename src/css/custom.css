@@ -29,7 +29,11 @@
     background-position: bottom;
     background-size: auto 100%;
     background-repeat: repeat-x;
-    /*filter: hue-rotate(0deg) saturate(.5);*/
+    /*filter: hue-rotate(0deg) saturate(.5);*/ 
+  }
+
+  .navbar-sidebar {
+    bottom: auto;
   }
 }
 
@@ -56,4 +60,7 @@
     /*filter: hue-rotate(0deg) saturate(.5);*/
   }
 
+  .navbar-sidebar {
+    bottom: auto;
+  }
 }
