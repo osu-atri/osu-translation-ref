@@ -23,7 +23,7 @@
   }
 
   .navbar {
-    background: rgba(255, 179, 212, 0.8);
+    background: rgba(255, 179, 212, 0.5);
     backdrop-filter: blur(25px);
     background-image: url('assets/trianglesNavbar.png');
     background-position: bottom;
@@ -44,4 +44,16 @@
   --ifm-color-primary-lighter: #ff9cc8;
   --ifm-color-primary-lightest: #ffd1e6;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  
+
+  .navbar {
+    background: rgba(83, 44, 62, 0.5);
+    backdrop-filter: blur(25px);
+    background-image: url('assets/trianglesNavbar.png');
+    background-position: bottom;
+    background-size: auto 100%;
+    background-repeat: repeat-x;
+    filter: hue-rotate(0deg) saturate(.5);
+  }
+
 }
