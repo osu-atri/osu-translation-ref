@@ -1,3 +1,5 @@
+# NOTE: This workflow is not available, as I have no access to the full repository settings to store my Fine-grained personal access tokens.
+
 name: 'Submodules Sync'
 
 on:
