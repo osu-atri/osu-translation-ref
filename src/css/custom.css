@@ -34,6 +34,14 @@
 
   .navbar-sidebar {
     bottom: auto;
+    .navbar-sidebar__brand {
+      background: rgba(255, 179, 212, 0.6);
+      backdrop-filter: blur(25px);
+      background-image: url('assets/trianglesNavbar.png');
+      background-position: bottom;
+      background-size: auto 100%;
+      background-repeat: repeat-x;  
+    }
   }
 }
 
@@ -62,5 +70,13 @@
 
   .navbar-sidebar {
     bottom: auto;
+    .navbar-sidebar__brand {
+      background: rgba(255, 179, 212, 0.6);
+      backdrop-filter: blur(25px);
+      background-image: url('assets/trianglesNavbar.png');
+      background-position: bottom;
+      background-size: auto 100%;
+      background-repeat: repeat-x;  
+    }
   }
 }
