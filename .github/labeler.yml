@@ -1,0 +1,18 @@
+"@conf":
+  - changed-files:
+    - any-glob-to-any-file:
+      - .github/**
+      - "*"
+      - "**/.github/**"
+
+"@doc":
+  - changed-files:
+    - any-glob-to-any-file:
+      - blog/**
+      - docs/**/*.md
+
+"@framework":
+  - changed-files:
+    - any-glob-to-any-file:
+      - src/**
+
