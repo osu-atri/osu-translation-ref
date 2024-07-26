@@ -16,3 +16,7 @@
     - any-glob-to-any-file:
       - src/**
 
+"@appearance":
+  - changed-files:
+    - any-glob-to-any-file:
+      - "**/*.css"
