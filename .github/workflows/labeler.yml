@@ -5,7 +5,8 @@ on:
       - main
     types:
       - opened
-
+      - synchronize
+      - reopened
 jobs:
   labeler:
     permissions:
